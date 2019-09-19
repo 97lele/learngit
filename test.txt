@@ -1,2 +1,7 @@
-sdjfkaj
-masternewline
+<<<<<<< HEAD
+s
+newf1line
+=======
+s
+newf1line
+>>>>>>> f1
